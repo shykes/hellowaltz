@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.call(["./main.py", "5000"])
+subprocess.call(["./hellowaltz-master/main.py", "5000"])
